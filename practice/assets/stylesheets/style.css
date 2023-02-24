@@ -1,0 +1,27 @@
+.bg-teal{
+	background-color: teal!important;
+}
+.clr-teal{
+	color: teal!important;
+}
+input::placeholder{
+	color: black!important;
+}
+.clr-white{
+	color: white!important;}
+.outl-teal{
+	outline: solid teal 2px!important;
+}
+.brdr-h{
+	border-bottom: 2px solid teal !important;
+}
+.brdr:hover{
+	border-bottom: 2px solid teal !important;
+}
+.btn:hover{
+	background-color: teal!important;
+	color: white!important;
+}
+.nav-link{
+	margin: 0px 10px!important;
+}
